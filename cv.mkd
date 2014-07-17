@@ -1,19 +1,100 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+** Banco de Dados
+** Cadastro
+** Personalização
+** Comentários
+** Produtos
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+HINGLERSON MENDONÇA DA SILVA
+Sou uma pessoa flexível com muita disposição e vontade de crescer profissionalmente. Tenho facilidade para aprender novas tecnologias e trabalhar em grupo, boa comunicação, experiência em projetos e Telecom. 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+DADOS PESSOAIS
+ 
+Data de nascimento: 24/07/1990
+Estado Civil: Solteiro
+País: BR
+Estado: Rio de Janeiro
+Cidade: Rio de Janeiro
+Bairro: Jacarepaguá
+CEP: 22780-250
+Endereço: Rua do Chalé
+Número: 181
+Complemento: Lote 13
+Telefone: 21-34168888
+Telefone celular: 21-979284700
+E-mail: hinglerson@gmail.com
+ 
+OBJETIVO
+ 
+Cargos desejados: 
+Analista de Sistemas
+Programador / Desenvolvedor
+DBA / DA
+Coordenador/Gerente de Projetos de TI
+Jornada: Período Integral
+Tipo de contrato: Efetivo – CLT
+Nível hierárquico: Analista, Coordenador, Gerente, Diretor
+Formação: 
+Ensino Superior
+Estácio de Sá
+Curso: Análise e Desenvolvimento de Sistemas para Internet 
+EXPERIÊNCIA PROFISSIONAL
+APSIS Consultoria 03/2011 - 10/2013
+Contratação: PJ
+Cargo: Coordenador de TI
+Área: Informática, TI, Telecomunicações (Administrador de Banco de Dados).
+Nível: Coordenador
+Atribuições do cargo: Administração de Banco de dados e tratamento de dados, Emissão de relatórios Gerenciais, Rotinas de Backup de dados, Migração de dados, Tunning de queries, Modelagem e Relacionamento de Dados. 
+Gestão da equipe de TI e processos de conciliação dos dados do cliente com os dados fornecidos pelos técnicos de campo da APSIS em nosso inventário físico. 
+Criação de Portal em PHP/MySQL (Framework: Joomla) para interação com os técnicos através de sistema de OS e Servidor de Arquivos para envio de fotos dos equipamentos inventariados da Oi.
+Reuniões com apresentação de Slides e Relatórios na empresa Auditora do Projeto (EY).
+YES Curso de Idiomas 04/2009 - 03/2011
+Contratação: CLT
+Cargo: Webmaster
+Área: Informática, TI, Telecomunicações (Programador / Desenvolvedor). 
+Nível: Analista
+Atribuições do cargo: Suporte aos funcionários, Desenvolvimento Back-end e Front-end do site em ASP/MsSQL e Criação de peças/campanhas de marketing. 
+Pesquisar novas ferramentas e serviços de marketing para oferecer aos franqueados. Desenvolvimento e manutenção de loja virtual interna para a compra de materiais.
+Desenvolvimento e manutenção de Intranet para interação com os franqueados.
+Relatórios gerenciais de acessos ao site (Google Analytics) e cadastros de alunos para novas matrículas
+Manutenção de Rede, Servidor de arquivos local e Data Center ALOG.
+Vigianni Soluções em Informática Ltda. 08/2007 - 12/2008
+Contratação: Cooperativado
+Cargo: Desenvolvedor Front End
+Área: Informática, TI, Telecomunicações (Programador / Desenvolvedor). 
+Nível: Especialista 
+Atribuições do cargo: Desenvolvimento de sites em utilizando as linguagens PHP, JS, CSS e XHTML. Ferramentas FLASH, Photoshop e Fireworks.
+
+IDIOMAS
+Inglês: Intermediário
+Português: Nativo
+Espanhol: Básico
+ 
+INFORMÁTICA
+Banco de dados: 
+SGBD’s, Oracle, Postgre SQL, SQL Server, MySQL, NoSQL, Big Data, DW, Dados Relacionais.
+Programação: 
+PHP, CSS2 e 3, ASP Clássico, XHTML, Java, JScript, JQuery, T-SQL, PL-SQL, C#, .NET, VB Script, VBA, POO.
+Gráficos/Web: 
+Adobe Fireworks, Adobe Ilustrator, Adobe Photoshop, CorelDraw , Adobe Dreamweaver, Adobe Flash, UML, UX, .
+Aplicações de Escritório: 
+Open Office, Microsoft PowerPoint, Microsoft Word, Microsoft Outlook, Microsoft Excel, Microsoft Access, Microsoft Project.
+Sistemas Operacionais: 
+Mac OS, Windows, Linux
+Outros: 
+Servidores de E-mail, ERP, Servidores Web, AWS, FTP.
+Frameworks: CodeIgniter, Laravel, Zend, Bootstrap, Foundation.
+CMS: Joomla, Wordpress, Drupal.
+E-Commerce: Magento, Prestashop, Shopfy
+
+DADOS COMPLEMENTARES
+Disponibilidade para viajar: Sim
+Disponibilidade para mudar de residência: Sim
+Carteira de Habilitação: B
+
